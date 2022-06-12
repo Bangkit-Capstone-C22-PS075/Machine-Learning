@@ -16,9 +16,10 @@ Here we do classification for clothing, especially upper body clothing. We class
 *   11 vest
 
 Steps:
-1.  Preprocess the Dataset
-2.  Do the training
-3.  Deploy the model to Android (Tensorflow Lite) or on Cloud (Tensorflow Serving)
+1.  Preprocess the Dataset ad data cleaning
+3.  Do the training analyze the result for better performance and accuracy
+4.  Try other model design or changing the hyperparameter to find the best result
+6.  Deploy the model to Android (Tensorflow Lite) or on Cloud (Tensorflow Serving)
 
 Dataset:
 https://data.vision.ee.ethz.ch/cvl/lbossard/accv12/
